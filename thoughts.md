@@ -7,5 +7,4 @@ Shoutout to my partner Eslie for taking care of me while I recover from Covid! ð
 This practice is helpful
 Git workflow can be tricky
 
-Thoughts
-Thinking things 
+ 
